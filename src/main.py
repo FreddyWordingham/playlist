@@ -16,6 +16,6 @@ def find_duplicates(plist):
     print(f"Finding duplicate tracks in {plist}")
 
 
-filename = "library.xml"
+filename = "res/library.xml"
 plist = load_plist(filename)
 find_duplicates(plist)
