@@ -13,7 +13,9 @@ def load_plist(filename):
 
 
 def find_duplicates(plist):
-    # print(f"Finding duplicate tracks in {plist}")
+    print(f"Finding duplicate tracks...")
+
+    # Collect data.
     tracks = plist['Tracks']
     names = {}
     for (track_id, track) in tracks.items():
@@ -28,11 +30,26 @@ def find_duplicates(plist):
                 names[name] = (duration, 1)
         except:
             pass
+
+    # Filter duplicates.
+    dups = []
     for (name, (time, count)) in names.items():
         if count > 1:
-            print(f'{name}\t{count}')
+            dups.append((name, count))
+
+    if len(dups) > 0:
+        print(f"Found {len(dups)} duplicates.")
+    else:
+        print("No duplicate tracks found!")
+
+    # Save data.
+    f = open("dups.txt", "w")
+    for (name, count) in dups:
+        f.write(f"[{name}] {count}\n")
+    f.close()
+    print(f"Track names saved to dup.txt")
 
 
-filename = 'res/library.xml'
+filename = "res/library.xml"
 plist = load_plist(filename)
 find_duplicates(plist)
