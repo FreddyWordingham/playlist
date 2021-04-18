@@ -1,9 +1,4 @@
-# import re
-# import argparse
-# import sys
-# from matplotlib import pyplot
 import plistlib
-# import numpy as np
 
 
 # Find the duplicates in a given list.
