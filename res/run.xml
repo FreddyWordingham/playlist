@@ -1,0 +1,1044 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2021-04-19T00:05:46Z</date>
+	<key>Application Version</key><string>1.1.3.3</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/freddywordingham/Music/Music/Media.localized/</string>
+	<key>Library Persistent ID</key><string>3A0872C8E1161A1B</string>
+	<key>Tracks</key>
+	<dict>
+		<key>1092</key>
+		<dict>
+			<key>Track ID</key><integer>1092</integer>
+			<key>Name</key><string>Always</string>
+			<key>Artist</key><string>blink-182</string>
+			<key>Album Artist</key><string>blink-182</string>
+			<key>Composer</key><string>Mark Hoppus, Tom DeLonge &#38; Travis Barker</string>
+			<key>Album</key><string>Blink-182</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9372402</integer>
+			<key>Total Time</key><integer>251867</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-05-19T11:29:36Z</date>
+			<key>Date Added</key><date>2019-05-19T11:29:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3687731092</integer>
+			<key>Play Date UTC</key><date>2020-11-09T01:44:52Z</date>
+			<key>Release Date</key><date>2003-11-18T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Blink-182</string>
+			<key>Sort Artist</key><string>blink-182</string>
+			<key>Sort Name</key><string>Always</string>
+			<key>Persistent ID</key><string>B9BC74C8F32A0971</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>2648</key>
+		<dict>
+			<key>Track ID</key><integer>2648</integer>
+			<key>Name</key><string>Lucy</string>
+			<key>Artist</key><string>Simple Creatures</string>
+			<key>Album Artist</key><string>Simple Creatures</string>
+			<key>Composer</key><string>Alex Gaskarth, Mark Hoppus &#38; Zakk Cervini</string>
+			<key>Album</key><string>Strange Love - EP</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7558797</integer>
+			<key>Total Time</key><integer>216675</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-07-01T01:57:03Z</date>
+			<key>Date Added</key><date>2019-07-01T00:57:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>72</integer>
+			<key>Play Date</key><integer>3700490785</integer>
+			<key>Play Date UTC</key><date>2021-04-05T17:06:25Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-09-17T21:13:31Z</date>
+			<key>Release Date</key><date>2019-03-29T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Strange Love - EP</string>
+			<key>Sort Artist</key><string>Simple Creatures</string>
+			<key>Sort Name</key><string>Lucy</string>
+			<key>Persistent ID</key><string>926BD01AE7821489</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>2654</key>
+		<dict>
+			<key>Track ID</key><integer>2654</integer>
+			<key>Name</key><string>Adrenaline</string>
+			<key>Artist</key><string>Simple Creatures</string>
+			<key>Album Artist</key><string>Simple Creatures</string>
+			<key>Composer</key><string>Alex Gaskarth, Dylan Bauld, Mark Hoppus &#38; Zakk Cervini</string>
+			<key>Album</key><string>Strange Love - EP</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7173406</integer>
+			<key>Total Time</key><integer>201497</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-07-01T01:57:03Z</date>
+			<key>Date Added</key><date>2019-07-01T00:57:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>73</integer>
+			<key>Play Date</key><integer>3700491691</integer>
+			<key>Play Date UTC</key><date>2021-04-05T17:21:31Z</date>
+			<key>Release Date</key><date>2019-02-21T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Strange Love - EP</string>
+			<key>Sort Artist</key><string>Simple Creatures</string>
+			<key>Sort Name</key><string>Adrenaline</string>
+			<key>Persistent ID</key><string>10674798752861A0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>2720</key>
+		<dict>
+			<key>Track ID</key><integer>2720</integer>
+			<key>Name</key><string>Memory</string>
+			<key>Artist</key><string>Sugarcult</string>
+			<key>Album Artist</key><string>Sugarcult</string>
+			<key>Album</key><string>Palm Trees and Power Lines</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8174109</integer>
+			<key>Total Time</key><integer>225998</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2019-07-01T21:27:00Z</date>
+			<key>Date Added</key><date>2019-07-01T20:27:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>48</integer>
+			<key>Play Date</key><integer>3700843759</integer>
+			<key>Play Date UTC</key><date>2021-04-09T19:09:19Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2020-09-13T12:58:40Z</date>
+			<key>Release Date</key><date>2004-03-16T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Palm Trees and Power Lines</string>
+			<key>Sort Artist</key><string>Sugarcult</string>
+			<key>Sort Name</key><string>Memory</string>
+			<key>Persistent ID</key><string>30663A53DE9E843F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>2818</key>
+		<dict>
+			<key>Track ID</key><integer>2818</integer>
+			<key>Name</key><string>How Does It Feel</string>
+			<key>Artist</key><string>Sugarcult</string>
+			<key>Album Artist</key><string>Sugarcult</string>
+			<key>Composer</key><string>Sugarcult</string>
+			<key>Album</key><string>Start Static</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7244681</integer>
+			<key>Total Time</key><integer>192707</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2019-07-24T16:30:41Z</date>
+			<key>Date Added</key><date>2019-07-24T15:30:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>77</integer>
+			<key>Play Date</key><integer>3700944133</integer>
+			<key>Play Date UTC</key><date>2021-04-10T23:02:13Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-12-16T01:28:41Z</date>
+			<key>Release Date</key><date>2001-08-21T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Start Static</string>
+			<key>Sort Artist</key><string>Sugarcult</string>
+			<key>Sort Name</key><string>How Does It Feel</string>
+			<key>Persistent ID</key><string>4B5F40F44608F1B6</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>2826</key>
+		<dict>
+			<key>Track ID</key><integer>2826</integer>
+			<key>Name</key><string>Shaking</string>
+			<key>Artist</key><string>Sugarcult</string>
+			<key>Album Artist</key><string>Sugarcult</string>
+			<key>Album</key><string>Lights Out</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8386321</integer>
+			<key>Total Time</key><integer>231947</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2019-07-26T11:47:40Z</date>
+			<key>Date Added</key><date>2019-07-26T10:47:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>110</integer>
+			<key>Play Date</key><integer>3700945158</integer>
+			<key>Play Date UTC</key><date>2021-04-10T23:19:18Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2020-02-19T23:56:27Z</date>
+			<key>Release Date</key><date>2006-08-30T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lights Out</string>
+			<key>Sort Artist</key><string>Sugarcult</string>
+			<key>Sort Name</key><string>Shaking</string>
+			<key>Persistent ID</key><string>46D944F8B8247253</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>2828</key>
+		<dict>
+			<key>Track ID</key><integer>2828</integer>
+			<key>Name</key><string>Hiatus</string>
+			<key>Artist</key><string>Sugarcult</string>
+			<key>Album Artist</key><string>Sugarcult</string>
+			<key>Album</key><string>Lights Out</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8827884</integer>
+			<key>Total Time</key><integer>243148</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2019-07-26T11:47:40Z</date>
+			<key>Date Added</key><date>2019-07-26T10:47:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>55</integer>
+			<key>Play Date</key><integer>3700946145</integer>
+			<key>Play Date UTC</key><date>2021-04-10T23:35:45Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2020-11-09T23:55:12Z</date>
+			<key>Release Date</key><date>2006-08-30T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lights Out</string>
+			<key>Sort Artist</key><string>Sugarcult</string>
+			<key>Sort Name</key><string>Hiatus</string>
+			<key>Persistent ID</key><string>317894C923F5282C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>2832</key>
+		<dict>
+			<key>Track ID</key><integer>2832</integer>
+			<key>Name</key><string>Riot</string>
+			<key>Artist</key><string>Sugarcult</string>
+			<key>Album Artist</key><string>Sugarcult</string>
+			<key>Album</key><string>Lights Out</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7526096</integer>
+			<key>Total Time</key><integer>208123</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2019-07-26T11:47:40Z</date>
+			<key>Date Added</key><date>2019-07-26T10:47:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>61</integer>
+			<key>Play Date</key><integer>3700845291</integer>
+			<key>Play Date UTC</key><date>2021-04-09T19:34:51Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2021-03-13T17:46:41Z</date>
+			<key>Release Date</key><date>2006-08-30T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lights Out</string>
+			<key>Sort Artist</key><string>Sugarcult</string>
+			<key>Sort Name</key><string>Riot</string>
+			<key>Persistent ID</key><string>0A3E8FC9411F0B1C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>2850</key>
+		<dict>
+			<key>Track ID</key><integer>2850</integer>
+			<key>Name</key><string>She's the Blade</string>
+			<key>Artist</key><string>Sugarcult</string>
+			<key>Album Artist</key><string>Sugarcult</string>
+			<key>Album</key><string>Palm Trees and Power Lines</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6725204</integer>
+			<key>Total Time</key><integer>179222</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2019-07-26T11:47:45Z</date>
+			<key>Date Added</key><date>2019-07-26T10:47:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>50</integer>
+			<key>Play Date</key><integer>3700945723</integer>
+			<key>Play Date UTC</key><date>2021-04-10T23:28:43Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2021-03-13T17:46:49Z</date>
+			<key>Release Date</key><date>2004-04-12T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Palm Trees and Power Lines</string>
+			<key>Sort Artist</key><string>Sugarcult</string>
+			<key>Sort Name</key><string>She's the Blade</string>
+			<key>Persistent ID</key><string>FDFB60A81E043577</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>2852</key>
+		<dict>
+			<key>Track ID</key><integer>2852</integer>
+			<key>Name</key><string>Destination Anywhere</string>
+			<key>Artist</key><string>Sugarcult</string>
+			<key>Album Artist</key><string>Sugarcult</string>
+			<key>Album</key><string>Palm Trees and Power Lines</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8184725</integer>
+			<key>Total Time</key><integer>231732</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2019-07-26T11:47:45Z</date>
+			<key>Date Added</key><date>2019-07-26T10:47:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>83</integer>
+			<key>Play Date</key><integer>3700843093</integer>
+			<key>Play Date UTC</key><date>2021-04-09T18:58:13Z</date>
+			<key>Skip Count</key><integer>8</integer>
+			<key>Skip Date</key><date>2020-12-03T02:20:33Z</date>
+			<key>Release Date</key><date>2004-04-12T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Palm Trees and Power Lines</string>
+			<key>Sort Artist</key><string>Sugarcult</string>
+			<key>Sort Name</key><string>Destination Anywhere</string>
+			<key>Persistent ID</key><string>32C645A80A0461F4</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>2868</key>
+		<dict>
+			<key>Track ID</key><integer>2868</integer>
+			<key>Name</key><string>You're the One</string>
+			<key>Artist</key><string>Sugarcult</string>
+			<key>Album Artist</key><string>Sugarcult</string>
+			<key>Composer</key><string>Sugarcult</string>
+			<key>Album</key><string>Start Static</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4383396</integer>
+			<key>Total Time</key><integer>110267</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2019-07-26T11:47:54Z</date>
+			<key>Date Added</key><date>2019-07-26T10:47:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>177</integer>
+			<key>Play Date</key><integer>3700975835</integer>
+			<key>Play Date UTC</key><date>2021-04-11T07:50:35Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2020-01-13T09:57:03Z</date>
+			<key>Release Date</key><date>2001-08-21T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Start Static</string>
+			<key>Sort Artist</key><string>Sugarcult</string>
+			<key>Sort Name</key><string>You're the One</string>
+			<key>Persistent ID</key><string>825232F3A504AAD9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>3512</key>
+		<dict>
+			<key>Track ID</key><integer>3512</integer>
+			<key>Name</key><string>One Little Lie</string>
+			<key>Artist</key><string>Simple Creatures</string>
+			<key>Album Artist</key><string>Simple Creatures</string>
+			<key>Composer</key><string>Alex Gaskarth, Dylan Bauld &#38; Mark Hoppus</string>
+			<key>Album</key><string>Everything Opposite - EP</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6927863</integer>
+			<key>Total Time</key><integer>195258</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-10-16T00:01:46Z</date>
+			<key>Date Added</key><date>2019-10-15T23:01:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>125</integer>
+			<key>Play Date</key><integer>3700822104</integer>
+			<key>Play Date UTC</key><date>2021-04-09T13:08:24Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-03-15T19:00:20Z</date>
+			<key>Release Date</key><date>2019-10-11T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Everything Opposite - EP</string>
+			<key>Sort Artist</key><string>Simple Creatures</string>
+			<key>Sort Name</key><string>One Little Lie</string>
+			<key>Persistent ID</key><string>A8BA20229347FE6D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>3514</key>
+		<dict>
+			<key>Track ID</key><integer>3514</integer>
+			<key>Name</key><string>Special</string>
+			<key>Artist</key><string>Simple Creatures</string>
+			<key>Album Artist</key><string>Simple Creatures</string>
+			<key>Composer</key><string>Alex Gaskarth, Mark Hoppus &#38; Zakk Cervini</string>
+			<key>Album</key><string>Everything Opposite - EP</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6560374</integer>
+			<key>Total Time</key><integer>172606</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-10-16T00:01:46Z</date>
+			<key>Date Added</key><date>2019-10-15T23:01:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>51</integer>
+			<key>Play Date</key><integer>3700490569</integer>
+			<key>Play Date UTC</key><date>2021-04-05T17:02:49Z</date>
+			<key>Skip Count</key><integer>10</integer>
+			<key>Skip Date</key><date>2020-06-22T07:18:12Z</date>
+			<key>Release Date</key><date>2019-08-30T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Everything Opposite - EP</string>
+			<key>Sort Artist</key><string>Simple Creatures</string>
+			<key>Sort Name</key><string>Special</string>
+			<key>Persistent ID</key><string>13E6000EBF557746</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>3516</key>
+		<dict>
+			<key>Track ID</key><integer>3516</integer>
+			<key>Name</key><string>Thanks, I Hate It</string>
+			<key>Artist</key><string>Simple Creatures</string>
+			<key>Album Artist</key><string>Simple Creatures</string>
+			<key>Composer</key><string>Alex Gaskarth, Mark Hoppus &#38; Zakk Cervini</string>
+			<key>Album</key><string>Everything Opposite - EP</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6281047</integer>
+			<key>Total Time</key><integer>177274</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-10-16T00:01:46Z</date>
+			<key>Date Added</key><date>2019-10-15T23:01:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>109</integer>
+			<key>Play Date</key><integer>3700975167</integer>
+			<key>Play Date UTC</key><date>2021-04-11T07:39:27Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2019-11-09T14:13:37Z</date>
+			<key>Release Date</key><date>2019-08-30T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Everything Opposite - EP</string>
+			<key>Sort Artist</key><string>Simple Creatures</string>
+			<key>Sort Name</key><string>Thanks, I Hate It</string>
+			<key>Persistent ID</key><string>D4D2C1106906B6AD</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>3518</key>
+		<dict>
+			<key>Track ID</key><integer>3518</integer>
+			<key>Name</key><string>Nvm</string>
+			<key>Artist</key><string>Simple Creatures</string>
+			<key>Album Artist</key><string>Simple Creatures</string>
+			<key>Composer</key><string>Alex Gaskarth, Mark Hoppus &#38; Zakk Cervini</string>
+			<key>Album</key><string>Everything Opposite - EP</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7247529</integer>
+			<key>Total Time</key><integer>207646</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-10-16T00:01:46Z</date>
+			<key>Date Added</key><date>2019-10-15T23:01:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>107</integer>
+			<key>Play Date</key><integer>3700822311</integer>
+			<key>Play Date UTC</key><date>2021-04-09T13:11:51Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-10-17T08:58:39Z</date>
+			<key>Release Date</key><date>2019-10-11T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Everything Opposite - EP</string>
+			<key>Sort Artist</key><string>Simple Creatures</string>
+			<key>Sort Name</key><string>Nvm</string>
+			<key>Persistent ID</key><string>93F0DCF6060ACB71</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>3720</key>
+		<dict>
+			<key>Track ID</key><integer>3720</integer>
+			<key>Name</key><string>Royal</string>
+			<key>Artist</key><string>Waterparks</string>
+			<key>Album Artist</key><string>Waterparks</string>
+			<key>Composer</key><string>0</string>
+			<key>Album</key><string>Double Dare</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7516645</integer>
+			<key>Total Time</key><integer>211203</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2020-01-03T11:50:31Z</date>
+			<key>Date Added</key><date>2020-01-03T11:50:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>62</integer>
+			<key>Play Date</key><integer>3672582960</integer>
+			<key>Play Date UTC</key><date>2020-05-17T16:56:00Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2020-01-18T17:09:20Z</date>
+			<key>Release Date</key><date>2016-10-24T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Double Dare</string>
+			<key>Sort Artist</key><string>Waterparks</string>
+			<key>Sort Name</key><string>Royal</string>
+			<key>Persistent ID</key><string>0BA0CE23AAE163CA</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>3728</key>
+		<dict>
+			<key>Track ID</key><integer>3728</integer>
+			<key>Name</key><string>Easy To Hate</string>
+			<key>Artist</key><string>Waterparks</string>
+			<key>Album Artist</key><string>Waterparks</string>
+			<key>Composer</key><string>Waterparks</string>
+			<key>Album</key><string>FANDOM</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7304257</integer>
+			<key>Total Time</key><integer>191252</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2020-01-03T11:50:50Z</date>
+			<key>Date Added</key><date>2020-01-03T11:50:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>87</integer>
+			<key>Play Date</key><integer>3677063126</integer>
+			<key>Play Date UTC</key><date>2020-07-08T13:25:26Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-03-08T16:09:43Z</date>
+			<key>Release Date</key><date>2019-10-11T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>FANDOM</string>
+			<key>Sort Artist</key><string>Waterparks</string>
+			<key>Sort Name</key><string>Easy To Hate</string>
+			<key>Persistent ID</key><string>7BCD75752116D9D9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>3742</key>
+		<dict>
+			<key>Track ID</key><integer>3742</integer>
+			<key>Name</key><string>Rare</string>
+			<key>Artist</key><string>Waterparks</string>
+			<key>Album Artist</key><string>Waterparks</string>
+			<key>Composer</key><string>Awsten Constantine Knight</string>
+			<key>Album</key><string>Entertainment</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7947313</integer>
+			<key>Total Time</key><integer>220268</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2020-01-07T14:50:26Z</date>
+			<key>Date Added</key><date>2020-01-07T14:50:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>136</integer>
+			<key>Play Date</key><integer>3695753451</integer>
+			<key>Play Date UTC</key><date>2021-02-09T22:10:51Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2020-06-28T17:58:08Z</date>
+			<key>Release Date</key><date>2018-01-26T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Entertainment</string>
+			<key>Sort Artist</key><string>Waterparks</string>
+			<key>Sort Name</key><string>Rare</string>
+			<key>Persistent ID</key><string>C989955F93A05AAA</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>3746</key>
+		<dict>
+			<key>Track ID</key><integer>3746</integer>
+			<key>Name</key><string>Telephone</string>
+			<key>Artist</key><string>Waterparks</string>
+			<key>Album Artist</key><string>Waterparks</string>
+			<key>Composer</key><string>Waterparks</string>
+			<key>Album</key><string>FANDOM</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5636497</integer>
+			<key>Total Time</key><integer>153995</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2020-01-09T11:43:27Z</date>
+			<key>Date Added</key><date>2020-01-09T11:43:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>88</integer>
+			<key>Play Date</key><integer>3674017397</integer>
+			<key>Play Date UTC</key><date>2020-06-03T07:23:17Z</date>
+			<key>Skip Count</key><integer>10</integer>
+			<key>Skip Date</key><date>2020-12-24T21:30:50Z</date>
+			<key>Release Date</key><date>2019-10-11T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>FANDOM</string>
+			<key>Sort Artist</key><string>Waterparks</string>
+			<key>Sort Name</key><string>Telephone</string>
+			<key>Persistent ID</key><string>34A26C2581B1C000</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>3748</key>
+		<dict>
+			<key>Track ID</key><integer>3748</integer>
+			<key>Name</key><string>It Follows</string>
+			<key>Artist</key><string>Waterparks</string>
+			<key>Album Artist</key><string>Waterparks</string>
+			<key>Composer</key><string>0</string>
+			<key>Album</key><string>Double Dare</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6992162</integer>
+			<key>Total Time</key><integer>198239</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2020-01-09T11:43:30Z</date>
+			<key>Date Added</key><date>2020-01-09T11:43:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>93</integer>
+			<key>Play Date</key><integer>3680106066</integer>
+			<key>Play Date UTC</key><date>2020-08-12T18:41:06Z</date>
+			<key>Release Date</key><date>2016-11-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Double Dare</string>
+			<key>Sort Artist</key><string>Waterparks</string>
+			<key>Sort Name</key><string>It Follows</string>
+			<key>Persistent ID</key><string>B31EC70159EA3A6F</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>3756</key>
+		<dict>
+			<key>Track ID</key><integer>3756</integer>
+			<key>Name</key><string>Sleep Alone</string>
+			<key>Artist</key><string>Waterparks</string>
+			<key>Album Artist</key><string>Waterparks</string>
+			<key>Composer</key><string>Awsten Constantine Knight</string>
+			<key>Album</key><string>Entertainment</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8077825</integer>
+			<key>Total Time</key><integer>227189</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2020-01-09T11:44:00Z</date>
+			<key>Date Added</key><date>2020-01-09T11:44:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>116</integer>
+			<key>Play Date</key><integer>3686043909</integer>
+			<key>Play Date UTC</key><date>2020-10-20T12:05:09Z</date>
+			<key>Skip Count</key><integer>10</integer>
+			<key>Skip Date</key><date>2021-03-21T14:27:43Z</date>
+			<key>Release Date</key><date>2018-01-26T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Entertainment</string>
+			<key>Sort Artist</key><string>Waterparks</string>
+			<key>Sort Name</key><string>Sleep Alone</string>
+			<key>Persistent ID</key><string>18DCC1B96926631F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>3758</key>
+		<dict>
+			<key>Track ID</key><integer>3758</integer>
+			<key>Name</key><string>I'm a Natural Blue</string>
+			<key>Artist</key><string>Waterparks</string>
+			<key>Album Artist</key><string>Waterparks</string>
+			<key>Album</key><string>Black Light - EP</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7808170</integer>
+			<key>Total Time</key><integer>206983</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2020-01-09T11:44:03Z</date>
+			<key>Date Added</key><date>2020-01-09T11:44:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>62</integer>
+			<key>Play Date</key><integer>3686766050</integer>
+			<key>Play Date UTC</key><date>2020-10-28T21:40:50Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2020-06-11T06:19:48Z</date>
+			<key>Release Date</key><date>2014-06-04T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Black Light - EP</string>
+			<key>Sort Artist</key><string>Waterparks</string>
+			<key>Sort Name</key><string>I'm a Natural Blue</string>
+			<key>Persistent ID</key><string>98215F8E87F11FC4</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>3762</key>
+		<dict>
+			<key>Track ID</key><integer>3762</integer>
+			<key>Name</key><string>High Definition</string>
+			<key>Artist</key><string>Waterparks</string>
+			<key>Album Artist</key><string>Waterparks</string>
+			<key>Composer</key><string>Waterparks</string>
+			<key>Album</key><string>FANDOM</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6455451</integer>
+			<key>Total Time</key><integer>182077</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2020-01-12T18:50:36Z</date>
+			<key>Date Added</key><date>2020-01-12T18:50:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>75</integer>
+			<key>Play Date</key><integer>3687517462</integer>
+			<key>Play Date UTC</key><date>2020-11-06T14:24:22Z</date>
+			<key>Skip Count</key><integer>8</integer>
+			<key>Skip Date</key><date>2020-06-23T11:12:27Z</date>
+			<key>Release Date</key><date>2019-10-11T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>FANDOM</string>
+			<key>Sort Artist</key><string>Waterparks</string>
+			<key>Sort Name</key><string>High Definition</string>
+			<key>Persistent ID</key><string>5D2738E1597B52F5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>3828</key>
+		<dict>
+			<key>Track ID</key><integer>3828</integer>
+			<key>Name</key><string>Not Warriors</string>
+			<key>Artist</key><string>Waterparks</string>
+			<key>Album Artist</key><string>Waterparks</string>
+			<key>Composer</key><string>Awsten Constantine Knight</string>
+			<key>Album</key><string>Entertainment</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7860743</integer>
+			<key>Total Time</key><integer>212657</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2020-01-22T17:43:52Z</date>
+			<key>Date Added</key><date>2020-01-22T17:43:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>67</integer>
+			<key>Play Date</key><integer>3688477706</integer>
+			<key>Play Date UTC</key><date>2020-11-17T17:08:26Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2020-03-08T16:31:34Z</date>
+			<key>Release Date</key><date>2018-01-26T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Entertainment</string>
+			<key>Sort Artist</key><string>Waterparks</string>
+			<key>Sort Name</key><string>Not Warriors</string>
+			<key>Persistent ID</key><string>86119C96298CC16E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>3832</key>
+		<dict>
+			<key>Track ID</key><integer>3832</integer>
+			<key>Name</key><string>Dream Boy</string>
+			<key>Artist</key><string>Waterparks</string>
+			<key>Album Artist</key><string>Waterparks</string>
+			<key>Composer</key><string>Waterparks</string>
+			<key>Album</key><string>FANDOM</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6446385</integer>
+			<key>Total Time</key><integer>167184</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2020-01-22T17:43:54Z</date>
+			<key>Date Added</key><date>2020-01-22T17:43:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>58</integer>
+			<key>Play Date</key><integer>3674275919</integer>
+			<key>Play Date UTC</key><date>2020-06-06T07:11:59Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-03-08T17:20:27Z</date>
+			<key>Release Date</key><date>2019-08-15T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>FANDOM</string>
+			<key>Sort Artist</key><string>Waterparks</string>
+			<key>Sort Name</key><string>Dream Boy</string>
+			<key>Persistent ID</key><string>00F2A1DF7FC1B1F6</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>3834</key>
+		<dict>
+			<key>Track ID</key><integer>3834</integer>
+			<key>Name</key><string>11:11</string>
+			<key>Artist</key><string>Waterparks</string>
+			<key>Album Artist</key><string>Waterparks</string>
+			<key>Composer</key><string>Awsten Constantine Knight</string>
+			<key>Album</key><string>Entertainment</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7497201</integer>
+			<key>Total Time</key><integer>208760</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2020-01-22T20:42:00Z</date>
+			<key>Date Added</key><date>2020-01-22T20:42:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>110</integer>
+			<key>Play Date</key><integer>3687517671</integer>
+			<key>Play Date UTC</key><date>2020-11-06T14:27:51Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2020-06-23T13:31:48Z</date>
+			<key>Release Date</key><date>2018-01-26T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Entertainment</string>
+			<key>Sort Artist</key><string>Waterparks</string>
+			<key>Sort Name</key><string>11:11</string>
+			<key>Persistent ID</key><string>BFC3464166B04BC0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>3870</key>
+		<dict>
+			<key>Track ID</key><integer>3870</integer>
+			<key>Name</key><string>See Through</string>
+			<key>Artist</key><string>The Band CAMINO</string>
+			<key>Album Artist</key><string>The Band CAMINO</string>
+			<key>Composer</key><string>Jeffery Jordan, Spencer Stewart, Seth Ennis &#38; Alysa Vanderheym</string>
+			<key>Album</key><string>tryhard</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6756310</integer>
+			<key>Total Time</key><integer>181421</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2020-02-06T22:16:28Z</date>
+			<key>Date Added</key><date>2020-02-06T22:16:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>27</integer>
+			<key>Play Date</key><integer>3675888695</integer>
+			<key>Play Date UTC</key><date>2020-06-24T23:11:35Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2020-06-07T15:45:57Z</date>
+			<key>Release Date</key><date>2019-05-14T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>tryhard</string>
+			<key>Sort Album Artist</key><string>Band CAMINO</string>
+			<key>Sort Artist</key><string>Band CAMINO</string>
+			<key>Sort Name</key><string>See Through</string>
+			<key>Persistent ID</key><string>89C011E2C5CC840F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Run</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>8536</integer>
+			<key>Playlist Persistent ID</key><string>77D42ECD9C5649A9</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>2654</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1092</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3832</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3762</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3746</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3728</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3834</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3828</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3756</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3742</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3748</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3720</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3758</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2826</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2832</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2828</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2720</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2850</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2852</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2868</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2818</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3512</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3514</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3518</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3516</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2648</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3870</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

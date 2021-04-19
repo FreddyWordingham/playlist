@@ -28,14 +28,16 @@ def run(plist, outfile):
         if count > 1:
             dups.append((name, count))
 
+    # Analyse data.
     if len(dups) > 0:
         print(f"Found {len(dups)} duplicates.")
     else:
         print("No duplicate tracks found!")
+        return
 
     # Save data.
     f = open(outfile, "w")
     for (name, count) in dups:
         f.write(f"[{name}] {count}\n")
     f.close()
-    print(f"Track names saved to {outfile}")
+    print(f"Duplicate track names saved to {outfile}")

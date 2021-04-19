@@ -1,4 +1,5 @@
 import find_duplicates
+import find_common
 
 
 # Load an ITunes plist file.
@@ -9,7 +10,8 @@ def load_plist(filename):
         return plist
 
 
-filename = "res/library.xml"
-outfile = "dups.txt"
-plist = load_plist(filename)
-find_duplicates.run(plist, outfile)
+find_duplicates.run(load_plist("res/library.xml"), "dups.txt")
+find_common.run([
+    load_plist("res/library.xml"),
+    load_plist("res/run.xml"),
+], "common.txt")
