@@ -1,6 +1,3 @@
-import plistlib
-
-
 # Find common tracks.
 def run(plists, outfile):
     print(f"Finding common tracks...")

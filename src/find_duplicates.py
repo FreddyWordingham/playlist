@@ -1,6 +1,3 @@
-import plistlib
-
-
 # Find the duplicates in a given list.
 # Save duplicate entries to the output file.
 def run(plist, outfile):
