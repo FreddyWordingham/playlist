@@ -3,7 +3,7 @@ def run(plists, outfile):
     print(f"Finding common tracks...")
     track_name_sets = []
 
-   # Collect data.
+    # Collect data.
     for plist in plists:
         names = set()
         tracks = plist['Tracks']
